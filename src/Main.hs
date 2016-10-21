@@ -1,3 +1,4 @@
 module Main where
 
-timesThree x = x * 3
+main :: IO()
+main = putStrLn "Hello world!"
